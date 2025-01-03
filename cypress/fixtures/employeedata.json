@@ -1,0 +1,13 @@
+{
+    "newEmployee":{
+        "FirstName":"Ahtisham",
+        "MidName":"_",
+        "LastName":"Ali"
+    },
+
+    "UserLogin":{
+        "name":"user123",
+        "Password":"P@ssword123",
+        "ConfirmPassword":"P@ssword123"
+    }
+}

@@ -1,0 +1,30 @@
+{
+  "validUser": {
+    "username": "Admin",
+    "password": "admin123"
+  },
+  "invalidUser": {
+    "username": "invalidUser",
+    "password": "invalidPassword"
+  },
+  "emptyFields": {
+    "username": null,
+    "password": null
+  },
+  "AdminUser": {
+    "username": "Ahtisham Ali"
+  },
+  "AdminCred": {
+    "password": "P@ssword123",
+    "confirmPassword": "P@ssword123"
+  },
+
+  "SearchUser":{
+    "username":"Admin",
+    "newUser":"Admin1"
+  },
+
+  "deleteUser":{
+    "username":"Dinesh"
+  }
+}
