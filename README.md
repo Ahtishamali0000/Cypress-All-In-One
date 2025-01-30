@@ -59,20 +59,19 @@ To get started with this project, follow these steps:
 Once the dependencies are installed, you can start running the tests.
 
 ### To run UI tests (End-to-End tests):
-    ```bash
+
     npx cypress open
-    ```
-    This command will open the Cypress Test Runner. You can then select a test to run.
+    
 
 ### To run API tests:
-    ```bash
-npx cypress run --spec "cypress/e2e/API Testing/*
-    ```
+    
+    npx cypress run --spec "cypress/e2e/API Testing/*"
+
 
 ### To run Cucumber tests:
 Make sure you have the Cucumber preprocessor installed and then run:
     ```bash
-npx cypress run --spec "cypress/e2e/cucumber/Test/*.feature"
+    npx cypress run --spec "cypress/e2e/cucumber/Test/*.feature"
     ```
 
 ### Run all tests:
