@@ -66,13 +66,13 @@ Once the dependencies are installed, you can start running the tests.
 
 ### To run API tests:
     ```bash
-    npx cypress run --spec "cypress/e2e/api/*"
+npx cypress run --spec "cypress/e2e/API Testing/*"
     ```
 
 ### To run Cucumber tests:
 Make sure you have the Cucumber preprocessor installed and then run:
     ```bash
-    npx cypress run --spec "cypress/e2e/features/*"
+npx cypress run --spec "cypress/e2e/cucumber/Test/*.feature"
     ```
 
 ### Run all tests:
