@@ -66,7 +66,7 @@ Once the dependencies are installed, you can start running the tests.
 
 ### To run API tests:
     ```bash
-npx cypress run --spec "cypress/e2e/API Testing/*"
+npx cypress run --spec "cypress/e2e/API Testing/*
     ```
 
 ### To run Cucumber tests:
